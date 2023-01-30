@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Frontend - разработчик
+Frontend developer
 
 СТЕК ТЕХНОЛОГИЙ:
 — JavaScript ES5/6/7
@@ -8,7 +8,7 @@ Frontend - разработчик
 — React Router Dom, React Skeleton, etc.
 — Axios
 — HTML5, CSS3
-— GIT , GitHub
+— GIT, GitHub
 — LESS / SASS / CSS Modules
 — Bootstrap, Ant.design, Material UI, etc.
 — Webpack
