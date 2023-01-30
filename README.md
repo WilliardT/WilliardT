@@ -19,5 +19,8 @@ Frontend developer
 — Next JS
 — Vue JS
 — Nuxt JS
+
+e-mail: reactdeveloper@vk.com
+
 ## 
 
