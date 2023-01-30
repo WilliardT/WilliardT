@@ -1,17 +1,23 @@
 ### Hi there 👋
-⚡
-React Frontend - разработчик
+
+Frontend - разработчик
 
 СТЕК ТЕХНОЛОГИЙ:
 — JavaScript ES5/6/7
-— React
+— React JS
+— React Router Dom, React Skeleton, etc.
+— Axios
 — HTML5, CSS3
 — GIT , GitHub
-— LESS / SASS
-— Bootstrap
+— LESS / SASS / CSS Modules
+— Bootstrap, Ant.design, Material UI, etc.
 — Webpack
-— Vue.js
 — TypeScript
-— JSON
+— JSON server
+— Redux
+— Nest JS
+— Next JS
+— Vue JS
+— Nuxt JS
 ## 
 
