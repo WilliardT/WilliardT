@@ -12,6 +12,9 @@ When I'm not working, you can find me reading technical books in English or play
 - **Rendering Optimization**: Server-side rendering (SSR), Client-side rendering (CSR), Static generation (Next.js)
 - **Design Tools**: Figma, Miro, Supa, Pixso
 
+
+*T-SHAPE:*
+
 ### 🔧 Backend (Basic to Intermediate Level)
 - **Languages & Frameworks**: Node.js, Express, NestJS
 - **Other Languages**: C# (basic), Python (basic)
