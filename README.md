@@ -11,13 +11,14 @@ When I'm not working, you can find me reading technical books in English or play
 - **Styling**: HTML5, CSS3, SASS, LESS, Bootstrap, Material UI (MUI), Ant Design, styled-components, CSS Modules, classnames, clsx
 - **Rendering Optimization**: Server-side rendering (SSR), Client-side rendering (CSR), Static generation (Next.js)
 - **Design Tools**: Figma, Miro, Supa, Pixso
+- Proficient in implementing web accessibility standards (WCAG 2.0/2.1) to ensure inclusive design practices
 
 
 *T-SHAPE:*
 
 ### 🔧 Backend (Basic to Intermediate Level)
-- **Languages & Frameworks**: Node.js, Express, NestJS
-- **Other Languages**: C# (basic), Python (basic)
+- **Languages & Frameworks**: Node.js, Express, NestJS, Python, Go,
+- **Other Languages**: C# (basic),
 - **API Integration**: REST API, GraphQL, Apollo Client, axios, JSON Server
 - **Authentication & Security**: Keycloak, NextAuth, bcrypt, Zod
 - **Databases**: PostgreSQL, MongoDB, SQL, Prisma, TablePlus
