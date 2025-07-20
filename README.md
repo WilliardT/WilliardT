@@ -8,7 +8,7 @@ When I'm not working, you can find me reading technical books in English or play
 ### 🖥️ Frontend (Advanced Level)
 - **Frameworks & Libraries**: React, Next.js, Vue, Redux, Redux Toolkit, Redux-Saga, Zustand
 - **Languages**: JavaScript, TypeScript
-- **Styling**: HTML5, CSS3, SASS, LESS, Bootstrap, Material UI (MUI), Ant Design, styled-components, CSS Modules, classnames, clsx
+- **Styling**: HTML5, CSS3, SASS, LESS, Bootstrap, Material UI (MUI), Ant Design, styled-components, CSS Modules, classnames, clsx, animation base + framer-motion
 - **Rendering Optimization**: Server-side rendering (SSR), Client-side rendering (CSR), Static generation (Next.js)
 - **Design Tools**: Figma, Miro, Supa, Pixso
 - Proficient in implementing web accessibility standards (WCAG 2.0/2.1) to ensure inclusive design practices
