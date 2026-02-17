@@ -7,29 +7,24 @@ My core strength is translating complex business requirements into clean, mainta
 
 ---
 
-## 🧠 Core
-- Backend development with **Go**
-- API design & contracts (REST, JSON)
-- Server-Driven UI (SDUI)
-- System & application architecture
-- Business-oriented backend solutions
-
----
-
 ## 🔧 Tech Stack
 
 ### Backend
 - **Go**, Python, Node.js (NestJS, Express), С#
+- API design & contracts (REST, JSON)
 - REST API, GraphQL
+- Server-Driven UI (SDUI)
 - Authentication & Security: Keycloak, JWT, bcrypt
 - Databases: PostgreSQL, MongoDB, SQL
 - Async processing, background jobs, queues
+- Business-oriented backend solutions
 
 ### Frontend 
 - JS, TS, React, Next, Angular
-- Redux, Zustand
+- Redux, Zustand etc
 - SSR / CSR / Static Generation
 - UI integration & frontend architecture
+- System & application architecture
 
 ### Infrastructure & DevOps
 - Docker, Linux
