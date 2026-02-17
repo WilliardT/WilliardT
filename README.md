@@ -1,13 +1,17 @@
 Hi 👋 I'm Gleb
 
 Fullstack (React, Go, TypeScript).
-I design and build scalable backend services, API-first architectures, and Server-Driven UI (SDUI) solutions for real business products.
-
-My core strength is translating complex business requirements into clean, maintainable system architectures and developer-friendly APIs. A strong frontend background helps me design backend systems from the consumer’s perspective — making integrations predictable, stable, and scalable.
 
 ---
 
 ## 🔧 Tech Stack
+
+### Frontend 
+- JS, TS, React, Next, Angular
+- Redux, Zustand etc
+- SSR / CSR / Static Generation
+- UI integration & frontend architecture
+- System & application architecture
 
 ### Backend
 - **Go**, Python, Node.js (NestJS, Express), С#
@@ -18,13 +22,6 @@ My core strength is translating complex business requirements into clean, mainta
 - Databases: PostgreSQL, MongoDB, SQL
 - Async processing, background jobs, queues
 - Business-oriented backend solutions
-
-### Frontend 
-- JS, TS, React, Next, Angular
-- Redux, Zustand etc
-- SSR / CSR / Static Generation
-- UI integration & frontend architecture
-- System & application architecture
 
 ### Infrastructure & DevOps
 - Docker, Linux
