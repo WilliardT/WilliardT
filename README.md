@@ -1,6 +1,6 @@
 Hi 👋 I'm Gleb
 
-Frontend Engineer (architecture, development, integrations).
+Fullstack Engineer (architecture, development, integrations).
 
 ---
 
