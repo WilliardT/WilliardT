@@ -23,12 +23,13 @@ Frontend Engineer (architecture, development, integrations).
 — Other / worked with: local storage, session storage, indexedDB, cookies, CSS3, SASS/SCSS, LESS, CSS Modules, CSS-in-JS: Styled-components, Classnames, CLSX, React Hook Form, Formik, Zod, Lodash, Qs, Ahooks, React-markdown, React-simplemde-editor, React-hot-toast, React-toastify, npm, yarn, pnpm, ESLint, Prettier, stylelint, Postman, Swagger, JSON Server, ORM: Prisma, YooKassa, email notification integration: Resend, React Native, Expo customization, Expo Go, WebStorm.
 
 
-### BACKEND: integration / Full-stack (if necessary) 
+### BACKEND: 
 — Node.js: Express / NestJS (REST API fetch, GraphQL, Apollo Client, axios, RTK Query, JSON server, integrations. Implemented cloud storage, authorizations). 
 — Go (implemented REST API for e-commerce projects). 
 — Python: FastAPI (implemented AI/ML Integration Core, and an automated service generating POV videos from matches (pyautogui, pytesseract)). 
+- C# (EntityFramework , IdentityModel.Tokens.Jwt , Authentication.JwtBearer , MinimalAPI)
 — Auth: JWT, bcrypt, zod, next-auth, Keycloak + custom. 
-— ORM / DB: SQL, Prisma, PostgreSQL, MongoDB (applied data work with dBeaver, Table Plus). 
+— ORM / DB: TypeORM, SQL, Prisma, PostgreSQL, MongoDB (applied data work with dBeaver, Table Plus). 
 — WebSocket, Centrifuge (multicast work). 
 — Integrations: YooKassa (payments), Resend (email notifications). 
 — Caching: basic understanding of approaches (e.g., Redis). 
