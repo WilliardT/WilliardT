@@ -27,7 +27,7 @@ Fullstack Engineer (architecture, development, integrations).
 — Node.js: Express / NestJS (REST API fetch, GraphQL, Apollo Client, axios, RTK Query, JSON server, integrations. Implemented cloud storage, authorizations). 
 — Go (implemented REST API for e-commerce projects). 
 — Python: FastAPI (implemented AI/ML Integration Core, and an automated service generating POV videos from matches (pyautogui, pytesseract)). 
-- C# (EntityFramework , IdentityModel.Tokens.Jwt , Authentication.JwtBearer , MinimalAPI)
+C# (EntityFramework , IdentityModel.Tokens.Jwt , Authentication.JwtBearer , MinimalAPI)
 — Auth: JWT, bcrypt, zod, next-auth, Keycloak + custom. 
 — ORM / DB: TypeORM, SQL, Prisma, PostgreSQL, MongoDB (applied data work with dBeaver, Table Plus). 
 — WebSocket, Centrifuge (multicast work). 
