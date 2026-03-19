@@ -52,9 +52,9 @@ AI tools:
 ---
 
 📎 Git links:  
-GitHub: https://github.com/WilliardT  
-GitLab: https://gitlab.com/Gleb_T  
-GitVerse: https://gitverse.ru/GT
-Sourcecraft - https://sourcecraft.dev/glebas-titov/overview
+GitHub: [https://github.com/WilliardT](https://github.com/WilliardT)  
+GitLab: [https://gitlab.com/Gleb_T](https://gitlab.com/Gleb_T)  
+GitVerse: [https://gitverse.ru/GT](https://gitverse.ru/GT) 
+Sourcecraft - [https://sourcecraft.dev/glebas-titov/overview](https://sourcecraft.dev/glebas-titov/overview)
 
-📫 reactdeveloper@vk.com
+📫 [reactdeveloper@vk.com](mailto:reactdeveloper@vk.com)
