@@ -1,53 +1,57 @@
-Hi 👋 I'm Gleb
+МОЙ СТЕК ТЕХНОЛОГИЙ:  
+  
+FRONTEND:  
+— JavaScript, TypeScript.  
+— Основные фреймворки / библиотеки: React, Angular, Next.js, Vue, Astro.  
+— State managers: Redux (Saga/Toolkit), Zustand, MobX, TanStack Query. 
+— REST API fetch: base, Axios, GraphQL: Apollo Client, GraphQL, SWR.  
+— Стилизация и UI: Разработка гибких, модульных и кроссбраузерных решений для оформления интерфейсов.  
+— UI-библиотеки: Ant Design (antd), Material UI, Bootstrap, Chakra, Radix, React Aria, Ark, Materialize, CSS Modules, styled-components, classnames, clsx, skeleton, Panda CSS), Lucide, AG Grid, mescius designer.   
+— Доступность интерфейсов (WCAG 2.0/2.1), интернационализация.  
+— Анимация: Framer Motion, React Spring, GSAP.  
+— Графики и визуализация: Victory, jointjs, reactflow, JSgo.  
+— Build cборка: Vite, Webpack, Turbopack.  
+— Тестирование: Unit-тесты (Jest, React Testing Library), screenshot tests.  
+— Аутентификация: Next-Auth, Keycloak (кастомные страницы логина).  
+— WebSockets: интеграция работы с base ws, мультиканальная работа: Centrifuge. 
+— Module Federation (микросервисы, микрофронтенд). 
+— Дизайн и проектирование: Figma, Miro, Supa, Pixso, Excalidraw.  
+— Прочее/работал с: local storage, session storage, indexedDB, cookies, CSS3, SASS/SCSS, LESS, CSS Modules, CSS-in-JS: Styled-components, Classnames, CLSX, React Hook Form, Formik, Zod, Lodash, Qs, Ahooks, React-markdown, React-simplemde-editor, React-hot-toast, React-toastify, npm, yarn, pnpm, ESLint, Prettier, stylelint, Postman, Bruno, Insomnia, GraphQL, Swagger, JSON Server, ORM: Prisma, YooKassa, интеграция e-mail уведомлений: Resend, React Native, Expo customization, Expo Go, WebStorm.  
+  
+---  
+  
+BACKEND:  
+— Node.js: Express / NestJS (REST API fetch, GraphQL, Apollo Client, axios, RTK Query, JSON server, интеграции. Реализовывал облачное хранилище, авторизации, e-commerce платформа).  
+— Go (реализовывал rest api для проектов e-commerce).  
+— Python: FastAPI (реализовывал AI/ML Integration Core, и Проект автоматизированный сервис, генерирующий POV-видео из матчей (pyautogui, pytesseract).  
+— Auth: JWT, passport-jwt, bcrypt, zod, next-auth, Keycloak + custom.  
+— ORM / DB: TypeORM, SQL, Prisma, PostgreSQL, MongoDB (dBeaver, Table Plus, Beekeper studio).  
+— WebSocket, Centrifuge (мультиканальная работа), socket.io.  
+— Интеграции: YooKassa (платежи), Resend (email-уведомления).  
+— Кеширование: понимание и реализация подходов (например Redis).  
+— AI интеграции: MLOps, LM Studio, Ollama, OpenAI, DeepSeek, yandexGPT API, MCP.  
+— No-code / Low-code платформы: NocoDB, Platform V (Sber), Atoll.  
+— Логирование: Telescope, кастомное.
+ — Tests: unit, e2e (jest)
+ — Архитектура базы данных. 
+  
+DevOps:  
+— Docker, Docker compose, Linux, SSH, bash, nano, vim.  
+— Nginx, Caddy.
+— Deploy/hosting: Vercel, Beget, Netlify, Heroku, Selectel, GitLab CI / GitHub Actions, Yandex Cloud, SberCloud (Cloud.ru), Synology.  
+— Localtunnel, proxy.  
+— Понимание и использование cron.  
 
-Fullstack Engineer (architecture, development, integrations).
+AI tools:
+— Claude, Codex, Cursor, MCP + custom settings, Pencil, Figma AI
+  
+   
+ДОПОЛНИТЕЛЬНО:  
+— Работа с аналитическими бизнес документами на основе которых системная аналитика составляет ТЗ для задачи и описание этих задач (Redmine, Trello, Jira) на подзадачи для непосредственно реализации разработкой, написание документации по необходимости (Yandex Wiki, Confluence).
 
 ---
 
-## 🔧 Tech Stack
-
-### FRONTEND: 
-— JavaScript, TypeScript. 
-— Main frameworks / libraries: React, Next.js, Vue, Astro, Angular. 
-— State managers: Redux (Saga/Toolkit), Zustand, MobX. 
-— REST API fetch: base, Axios, GraphQL: Apollo Client, GraphQL, SWR. 
-— Styling and UI: Developing flexible, modular, and cross-browser solutions for interface design. 
-— UI libraries: Ant Design (antd), Material UI, Bootstrap, Chakra, Radix, React Aria, Ark, Materialize, CSS Modules, styled-components, classnames, clsx, skeleton, Panda CSS, Lucide. 
-— Interface accessibility (WCAG 2.0/2.1), internationalization. 
-— Animation: Framer Motion, React Spring, GSAP. 
-— Graphs and visualization: Victory, jointjs, reactflow, JSgo. 
-— Build tools: Vite, Webpack, Turbopack. — Testing: Unit tests (Jest, React Testing Library), screenshot tests. 
-— Authentication: Next-Auth, Keycloak (custom login pages). 
-— WebSockets: base ws integration, multicast work: Centrifuge. 
-— Design and prototyping: Figma, Miro, Supa, Pixso, Excalidraw. 
-— Other / worked with: local storage, session storage, indexedDB, cookies, CSS3, SASS/SCSS, LESS, CSS Modules, CSS-in-JS: Styled-components, Classnames, CLSX, React Hook Form, Formik, Zod, Lodash, Qs, Ahooks, React-markdown, React-simplemde-editor, React-hot-toast, React-toastify, npm, yarn, pnpm, ESLint, Prettier, stylelint, Postman, Swagger, JSON Server, ORM: Prisma, YooKassa, email notification integration: Resend, React Native, Expo customization, Expo Go, WebStorm.
-
-
-### BACKEND: 
-— Node.js: Express / NestJS (REST API fetch, GraphQL, Apollo Client, axios, RTK Query, JSON server, integrations. Implemented cloud storage, authorizations). 
-— Go (implemented REST API for e-commerce projects). 
-— Python: FastAPI (implemented AI/ML Integration Core, and an automated service generating POV videos from matches (pyautogui, pytesseract)). 
-C# (EntityFramework , IdentityModel.Tokens.Jwt , Authentication.JwtBearer , MinimalAPI)
-— Auth: JWT, bcrypt, zod, next-auth, Keycloak + custom. 
-— ORM / DB: TypeORM, SQL, Prisma, PostgreSQL, MongoDB (applied data work with dBeaver, Table Plus). 
-— WebSocket, Centrifuge (multicast work). 
-— Integrations: YooKassa (payments), Resend (email notifications). 
-— Caching: basic understanding of approaches (e.g., Redis). 
-— AI integrations: MLOps, LM Studio, Ollama, OpenAI, DeepSeek, YandexGPT API, MCP. 
-— No-code / Low-code platforms: NocoDB, Platform V (Sber), Atoll.
-
-### DevOps: 
-— Docker, Linux, SSH, bash, nano, vim. 
-— Deploy/hosting: Vercel, Beget, Netlify, Heroku, Selectel, GitLab CI / GitHub Actions, Yandex Cloud, SberCloud (Cloud.ru), Synology. 
-— Localtunnel, proxy. 
-— Understanding and using cron.
-
-ADDITIONALLY: 
-— Working with analytical business documents on the basis of which system analysts create specifications for tasks and describe these tasks (Redmine, Trello, Jira) into subtasks for direct development implementation, writing documentation if necessary (Yandex Wiki, Confluence).
-
----
-
-📎 Git links  
+📎 Git links:  
 GitHub: https://github.com/WilliardT  
 GitLab: https://gitlab.com/Gleb_T  
 GitVerse: https://gitverse.ru/GT
