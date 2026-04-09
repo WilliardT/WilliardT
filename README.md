@@ -22,6 +22,7 @@ FRONTEND:
   
 BACKEND:  
 — Node.js: Express / NestJS (REST API fetch, GraphQL, Apollo Client, axios, RTK Query, JSON server, интеграции. Реализовывал облачное хранилище, авторизации, e-commerce платформа).  
+— С# (web api для системы учета переработок сотрудников).  
 — Go (реализовывал rest api для проектов e-commerce).  
 — Python: FastAPI (реализовывал AI/ML Integration Core, и Проект автоматизированный сервис, генерирующий POV-видео из матчей (pyautogui, pytesseract).  
 — Auth: JWT, passport-jwt, bcrypt, zod, next-auth, Keycloak + custom.  
