@@ -17,6 +17,7 @@ FRONTEND:
 — Module Federation (микросервисы, микрофронтенд). 
 — Дизайн и проектирование: Figma, Miro, Supa, Pixso, Excalidraw.  
 — Прочее/работал с: local storage, session storage, indexedDB, cookies, CSS3, SASS/SCSS, LESS, CSS Modules, CSS-in-JS: Styled-components, Classnames, CLSX, React Hook Form, Formik, Zod, Lodash, Qs, Ahooks, React-markdown, React-simplemde-editor, React-hot-toast, React-toastify, npm, yarn, pnpm, ESLint, Prettier, stylelint, Postman, Bruno, Insomnia, GraphQL, Swagger, JSON Server, ORM: Prisma, YooKassa, интеграция e-mail уведомлений: Resend, React Native, Expo customization, Expo Go, WebStorm.  
+—  Electron
   
 ---  
   
@@ -26,7 +27,8 @@ BACKEND:
 — Go (реализовывал rest api для проектов e-commerce).  
 — Python: FastAPI (реализовывал AI/ML Integration Core, и Проект автоматизированный сервис, генерирующий POV-видео из матчей (pyautogui, pytesseract).  
 — Auth: JWT, passport-jwt, bcrypt, zod, next-auth, Keycloak + custom.  
-— ORM / DB: TypeORM, SQL, Prisma, PostgreSQL, MongoDB (dBeaver, Table Plus, Beekeper studio).  
+— SQL: агрегатные функции, группировка с фильтрацией, сложения строк, сортировка, дата и время, UNION, CROSS JOIN, оконные , ранжирующие функции,  нормализация и подготовка данных и тд.
+— ORM / DB: TypeORM, Prisma, PostgreSQL, MongoDB (dBeaver, Table Plus, Beekeper studio).  
 — WebSocket, Centrifuge (мультиканальная работа), socket.io.  
 — Интеграции: YooKassa (платежи), Resend (email-уведомления).  
 — Кеширование: понимание и реализация подходов (например Redis).  
@@ -35,6 +37,8 @@ BACKEND:
 — Логирование: Telescope, кастомное.
  — Tests: unit, e2e (jest)
  — Архитектура базы данных. 
+ — Микросервисы
+ — gRpc, ошибки для gRpc,  протоконтракты, proto файлы,
   
 DevOps:  
 — Docker, Docker compose, Linux, SSH, bash, nano, vim.  
@@ -48,7 +52,8 @@ AI tools:
   
    
 ДОПОЛНИТЕЛЬНО:  
-— Работа с аналитическими бизнес документами на основе которых системная аналитика составляет ТЗ для задачи и описание этих задач (Redmine, Trello, Jira) на подзадачи для непосредственно реализации разработкой, написание документации по необходимости (Yandex Wiki, Confluence).
+— Работа с аналитическими бизнес документами на основе которых системная аналитика составляет ТЗ для задачи и описание этих задач (Redmine, Trello, Jira) на подзадачи для непосредственно реализации разработкой, написание документации по необходимости (Yandex Wiki, Jira, Confluence).
+— публикация пакетов на https://www.npmjs.com/
 
 ---
 
