@@ -25,7 +25,7 @@ BACKEND:
 — Node.js: Express / NestJS (REST API fetch, GraphQL, Apollo Client, axios, RTK Query, JSON server, интеграции. Реализовывал облачное хранилище, авторизации, e-commerce платформа).  
 — С# (web api для системы учета переработок сотрудников).  
 — Go (реализовывал rest api для проектов e-commerce).  
-— Python: FastAPI (реализовывал AI/ML Integration Core, и Проект автоматизированный сервис, генерирующий POV-видео из матчей (pyautogui, pytesseract).  
+— Python: FastAPI, Django (реализовывал AI/ML Integration Core, и Проект автоматизированный сервис: генерирующий POV-видео из матчей (pyautogui, pytesseract, asyncio). 
 — Auth: JWT, passport-jwt, bcrypt, zod, next-auth, Keycloak + custom.  
 — SQL: агрегатные функции, группировка с фильтрацией, сложения строк, сортировка, дата и время, UNION, CROSS JOIN, оконные , ранжирующие функции,  нормализация и подготовка данных и тд.
 — ORM / DB: TypeORM, Prisma, PostgreSQL, MongoDB (dBeaver, Table Plus, Beekeper studio).  
@@ -48,7 +48,7 @@ DevOps:
 — Понимание и использование cron.  
 
 AI tools:
-— Claude, Codex, Cursor, MCP + custom settings, Pencil, Figma AI
+— Claude, Codex, Cursor, MCP + custom settings, Pencil, Figma AI, OpenClaw custom server, config.
   
    
 ДОПОЛНИТЕЛЬНО:  
