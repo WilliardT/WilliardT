@@ -30,8 +30,9 @@ BACKEND:
 — SQL: агрегатные функции, группировка с фильтрацией, сложения строк, сортировка, дата и время, UNION, CROSS JOIN, оконные , ранжирующие функции,  нормализация и подготовка данных и тд.
 — ORM / DB: TypeORM, Prisma, PostgreSQL, MongoDB (dBeaver, Table Plus, Beekeper studio).  
 — WebSocket, Centrifuge (мультиканальная работа), socket.io.  
-— Интеграции: YooKassa (платежи), Resend (email-уведомления).  
-— Кеширование: понимание и реализация подходов (например Redis).  
+— Интеграции: YooKassa (платежи), Resend (email-уведомления).
+— Message brokers / очереди: RabbitMQ. 
+— Кеширование / in-memory storage: Redis.
 — AI интеграции: MLOps, LM Studio, Ollama, OpenAI, DeepSeek, yandexGPT API, MCP.  
 — No-code / Low-code платформы: NocoDB, Platform V (Sber), Atoll.  
 — Логирование: Telescope, кастомное.
